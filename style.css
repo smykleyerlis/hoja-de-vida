@@ -1,0 +1,110 @@
+.linea{
+    width: 330px;
+    height: 800px;
+    background: #033961 ;
+  }
+  .informacion{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+    color: white;
+  }
+  .nombre{
+    display: flex;
+    position: absolute;
+    top: 120px;
+    left: 500px;
+    color: black
+  }
+  .titulo{
+    display: flex;
+    position: absolute;
+    top: 180px;
+    left: 550px;
+    color: black;
+  }
+  .perfil{
+    display: flex;
+    position: absolute;
+    top: 220px;
+    left: 400px;
+    color: black;
+  }
+  .perf{
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 360px;
+    color: black;
+  }
+  h3{
+    display: flex;
+    position: absolute;
+    top: 360px;
+    left: 380px;
+    color: black;
+    }
+  .tecnicos{
+    display: flex;
+    position: absolute;
+    top: 420px;
+    left: 360px;
+    color: black;
+  }
+  .experiencia{
+    display: flex;
+    position: absolute;
+    top: 510px;
+    left: 360px;
+    color: black;
+  }
+  .descripcion{
+    display: flex;
+    position: absolute;
+    top: 560px;
+    left: 360px;
+    color: black;
+  }
+  .explaboral{
+    display: flex;
+    position: absolute;
+    top: 630px;
+    left: 340px;
+    color: black;
+  }
+  .h{
+    display: flex;
+    position: absolute;
+    top: 380px;
+    left: 30px;
+    color: white;
+  }
+  .concepto{
+    display: flex;
+    position: absolute;
+    top: 420px;
+    left: 10px;
+    color: white;
+    
+  }
+  .t{
+    display: flex;
+    position: absolute;
+    top: 520px;
+    left: 30px;
+    color: white;
+  }
+  .definicion{
+    display: flex;
+    position: absolute;
+    top: 560px;
+    left: 30px;
+    color: white;
+  }
+  .img{
+    display: flex;
+    position: absolute;
+    top: 50px;
+    left: 60px;
+  }
